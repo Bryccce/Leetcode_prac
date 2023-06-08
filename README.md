@@ -1,3 +1,3 @@
 # Leetcode_prac
 
-TO record Leetcode practices
+To record Leetcode practices
